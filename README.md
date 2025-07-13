@@ -1,3 +1,5 @@
+use python and with the yt downloer.exe just put it in the same folder as the python script 
+
 # YouTube-Playlist/YouTube-Music-Downloader
 because i could not figure out how the other ones work
 use python btw
